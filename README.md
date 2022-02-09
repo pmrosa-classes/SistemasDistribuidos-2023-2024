@@ -8,34 +8,18 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 ### Horário 
 | Dia | Hora | Turma |
-| :-----------: | :-----------: | :----------: |
-| Quarta-feira | 16:00 - 18:40 | T2 |
-| Quinta-feira | 16:00 - 18:40 | T1 |
+| :-----------: | :-----------: | 
+| Segunda-feira | 14:00 - 15:40 | 
+| Sexta-feira | 17:00 - 18:40 | 
 
 ## Programa
 ### Aulas Teóricas
--	Introdução a Redes de Computadores & Aplicações 
--	Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc
--	Modelo OSI - layer 3/routing
-- Modelo OSI - layer 4/transporte
-- Modelo OSI - camadas aplicacionais
-- Internet (história/breve)
-- TCP/IP arquitetura, Unicast, Multicast
--	TCP/IP pacotes IP / layer IP
--	TCP/IP ICMP, TCP, UDP / layer transporte
--	TCP/IP endereçamento IPv4 (inclui subnetting)
--	Protocolos (DNS, DHCP, HTTP, SNMP, etc)
--	IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje
--	IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4)
--	IPv6 e serviços (DNSv6 e DHCPv6)
--	IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc)
 
 *Slides disponiveis no Canvas.*
 
-### Aulas Práticas:
-- [Laboratórios práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) de TCP/IP (endereçamento IP, routing em máquinas virtuais e Cisco Packet Tracer)
-- Inclui a utilização de máquinas virtuais e do simulador de rede Cisco Packet Tracer (ver [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md) na secção Preparação de Laboratórios quais os passos preparatórios para a realização dos laboratórios). Existe um [roteiro](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/roteiro-packet-tracer.md) para as aulas Packet Tracer;
-- Apoio a realização do trabalho prático sobre Networking/IoT em Cisco Packet Tracer.
+### Aulas de Suporte aos Trabalhos Práticos:
+
+Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos. A definição final das datas dessas aulas deverá ficar decidida nas primeiras 3 a 4 semanas de aulas.
 
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
 | Aula | Data | Aula |
