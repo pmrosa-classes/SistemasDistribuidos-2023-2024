@@ -77,7 +77,9 @@ Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10%
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
+
 **Nota 1:** Importante escolher os temas dos trabalhos teóricos até **25 de fevereiro**.
+
 **Nota 2:** Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
 Depois de distribuídos os temas (até 27 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
