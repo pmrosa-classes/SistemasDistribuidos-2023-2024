@@ -9,6 +9,8 @@ Todos os trabalhos terão que abordar a temática da **Tolerância a Faltas** em
 
 Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem que entenderem. Nas aulas nao havera suporte direto a essas componente, apenas aos conceitos envolvidos.
 
+---
+
 ## 1. Sistema de Votação On-Line Distribuído
 
 Os sistemas de votação on-line comecam timidamente a aparecer. Um dos motivos que atrasa a sua implementação é a confiança necessária na asuência de alterações não autorizadas.
