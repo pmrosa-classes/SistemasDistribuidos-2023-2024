@@ -1,4 +1,4 @@
-# Trabalho Teórico (15%)
+# Trabalho Teórico (20% ou 30%)
 
 ## 1ª componente de avaliação continua: Análise e apresentação de dois papers sobre Blockchain ou Internet of Things – 15% da avaliação – realização voluntária.
 
