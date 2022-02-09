@@ -58,7 +58,23 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 ## Avaliação 
 
-### 1. Trabalho Teórico (15%)
+A avaliação poderá ser realizada de 4 formas distintas
+
+### 1. Avaliação Continua V1 - **Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
+
+
+
+### 2. Avaliação Continua V2 - **Trabalhos Teóricos (20%) + Trabalho Prático (20%) + Teste Escrito Final  c/ 10 a 12 questões (60%)
+
+
+
+### 3. Avaliação Continua V3 - **Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
+
+
+### 4. Exame Final - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+
+
+
 O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
 Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
 
