@@ -41,15 +41,14 @@ O que se pretende é que os alunos desenvolvam um sistema de 2FA que seja tolera
  
 ## Sistema de Armazenamento de Logs Distribuído
 
+A capacidade de registar as várias operações realizadas por sistemas e aplicações é muito relevante para a implementação de politicas de segurança eficazes.
+O que se pretende é criar um sistema que Logs que armazena as informações enviadas (por diversas vias a propor, incluindo webservices) de forma distribuída e replicada.
+Para a implementação o projeto necessitará de pequenas aplicações "teste" que enviem os dados, para provar a correta implementação do sistema.
+
+*Em alteranativa a esse desenvolvimento de aplicações "teste", pode ser* ***Interessante e Relevante:*** *juntar este projeto a qualquer um dos outroos projetos, podendo cada grupo libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota.*
+
 
 
 Os trabalhos práticos são efetuados em [grupo](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md).
-
-Consulte os enunciados e datas de entrega de cada uma das 4 componentes:
-
-- **A DISPONIBILIZAR** - [Trabalho de Routing I](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-RoutingI.md) (necessita de máquinas virtuais) - 10% - data de entrega: 25.03.2022
-- **A DISPONIBILIZAR** - [Trabalho de Routing II](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-RoutingII.md) (necessita de máquinas virtuais) - 10% - data de entrega: 22.04.2022
-- **A DISPONIBILIZAR** - [Análise de ficheiro pcap - captura de pacotes com Wireshark/tcpdump](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-CapturaPacotes.md) (necessita de máquinas virtuais)  (5%) - data de entrega: 06.05.2022
-- **JÁ DISPONIVEL** - [Trabalho Cisco Packet Tracer com IoT](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabP-PacketTracer.md) (necessita do simulador Cisco Packet Tracer) - 20% - data de apresentação/entrega: **20.05.2022**
 
 Tal como descrito na Avaliação, a média final destes trabalhos + o trabalho teórico, deve ser no minimo de 8 valores. Nenhum trabalho é obrigatório mas a ausência de entrega/apresentação contará com zero valores nessa componente.
