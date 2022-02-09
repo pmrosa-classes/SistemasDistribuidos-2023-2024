@@ -45,9 +45,9 @@ A capacidade de registar as várias operações realizadas por sistemas e aplica
 O que se pretende é criar um sistema que Logs que armazena as informações enviadas (por diversas vias a propor, incluindo webservices) de forma distribuída e replicada.
 Para a implementação o projeto necessitará de pequenas aplicações "teste" que enviem os dados, para provar a correta implementação do sistema.
 
-*Em alteranativa a esse desenvolvimento de aplicações "teste", pode ser* ***Interessante e Relevante:*** *juntar este projeto a qualquer um dos outroos projetos, podendo cada grupo libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota.*
+*Em alternativa a esse desenvolvimento de aplicações "teste", pode ser* ***Interessante e Relevante*** *juntar este projeto a qualquer um dos outroos projetos, podendo cada grupo libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota.*
 
-
+---
 
 Os trabalhos práticos são efetuados em [grupo](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md).
 
