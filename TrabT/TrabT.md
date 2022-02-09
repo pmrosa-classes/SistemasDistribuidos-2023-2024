@@ -11,18 +11,15 @@ Os alunos deverão escolher cinco papers que tenham sido apresentados numa das c
 
 Poderão procurar por várias keyworks entre as quais “Blockchain”, “Distributed Systems”, “Security”, “IoT”, “BigData” etc. Obviamente que os assuntos deverão ser relacionados com a unidade curricular. Em caso de duvida deverão contactar o Docente.
 
-As escolhas deverão ser enviadas para o mail do Docente com o assunto “SID: Turma: Número Aluno: Trabalhos TP”.
+As escolhas deverão ser colocadas na Tarefa colocada no Canvas para o efeito até 25 de fevereiro.
 
-Desses cinco papers o docente escolherá dois que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar – a iniciar na semana de 22/3). Haverá duas rondas de apresentações ao longo do semestre.
+Desses cinco papers o docente escolherá dois que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar – a iniciar na semana de 28/2).
 
-As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 20 minutos, durante as aulas de 3h. O peso na avaliação da cadeira será de 15%+15%.
+As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 15 a 20 minutos, durante as aulas. O peso na avaliação da cadeira será dependente do método de avaliação escolhido.
 
-O processo de escolha decorre entre 10 e 13 de março (primeira semana de aulas + sábado) e a distribuição estará disponível no Blackboard até dia 16 de março. Em caso de repetição de escolhas será sempre usado o método FIFO. Quem escolher primeiro apresenta nas ultimas datas e vice-versa.
+O processo de escolha decorre entre 14 e 23 de fevereiro (primeira+segunda semana de aulas) e a distribuição estará disponível no Canvas no dia 27 de fevereiro. Em caso de repetição de escolhas será sempre usado o método FIFO. A distribuição de datas seguirá o método LIFO.
 
 A análise deve basear-se sobre o estudo ou implementação descrita, podendo ser útil verificar outros papers referenciados. É importante para a avaliação que o aluno exponha exatamente o que é relevante do paper, expondo ainda o seu ponto de vista sobre o que apresenta. Não é necessário nenhum relatório.
-
-Critérios de avaliação da análise dos papers:
-
 
 Algumas [dicas](https://github.com/pmrosa-classes/ComputerNetworks/edit/main/TrabT-dicas.md) sobre como analisar os papers adequadamente.
 
