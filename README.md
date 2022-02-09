@@ -75,7 +75,7 @@ Para a componente prática, os alunos devem escolher um dos [Trabalhos Práticos
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
-### 4. Exame Final - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+### 4. Exame Final V4 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
@@ -93,13 +93,13 @@ De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competênc
 - *A realização de uma prova final — teste escrito, coincidente em calendário letivo com a época normal da avaliação final.*
 *Sendo a avaliação contínua aquela que, com caráter regular e constante, decorre durante todo o período letivo e reflete uma permanente interação entre o docente e o estudante.*
 
-Nesta UC são instrumentos da avaliação contínua, o Trabalho Teórico (15%) individual que inclui apresentação à turma, os Trabalhos Práticos (40%) em grupo que no trabalho final inclui apresentação e o teste escritos final. 
+Nesta UC são instrumentos da avaliação contínua, os Trabalhos Teóricos e os Trabalhos Práticos, nas ponderações indicadas para cada versão. 
 
-**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso o Trabalho Teórico (15%) individual e os os Trabalhos Práticos (40%) em grupo. Poderá, no entanto, não realizar alguns trabalhos. 
+**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso nos Trabalhos Teóricos e nos Trabalhos Práticos. Poderá, no entanto, não realizar alguns trabalhos. 
 
 Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
 
-Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada.
+Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão 4 apresentada em cima.
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
