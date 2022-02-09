@@ -9,13 +9,15 @@ Todos os trabalhos terão que abordar a temática da **Tolerância a Faltas** em
 
 Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem que entenderem. Nas aulas nao havera suporte direto a essas componente, apenas aos conceitos envolvidos.
 
-## Sistema de Votação On-Line Distribuído
+## 1. Sistema de Votação On-Line Distribuído
 
 Os sistemas de votação on-line comecam timidamente a aparecer. Um dos motivos que atrasa a sua implementação é a confiança necessária na asuência de alterações não autorizadas.
 O que se pretende é um sistema de votação on-line, que deverá obviamente contar com estações de voto (sugere-se uma app na web ou apps Android em alteranatica) e servidores de gestão da votação e de armazenamento de dados (bases de dados). Os serviços devem estar replicados em mais que uma máquina; as bases de dados devem estar replicadas em mais que uma máquina e cifradas.
 A implementação exata e seu contexto fica ao critério do aluno que terá que descrever na sua proposta de trabalho.
 
-## Repositório de Ficheiros On-Line Distribuído
+***Interessante e Relevante:*** *se dois grupos colaborarem e juntarem este trabalho com o Sistema de 2FA, cada grupo pode libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota. Portanto sugere-se colaboração estreita entre grupos para a elaboração de um sistema unico.*
+
+## 2. Repositório de Ficheiros On-Line Distribuído
 
 
 
