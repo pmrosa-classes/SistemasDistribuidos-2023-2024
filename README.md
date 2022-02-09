@@ -60,7 +60,7 @@ A avaliação poderá ser realizada de 4 formas distintas
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
-Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
+Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
 ### 2. Avaliação Continua V2 - Trabalhos Teóricos (20%) + Trabalho Prático (20%) + Teste Escrito Final  c/ 10 a 12 questões (60%)
@@ -105,7 +105,7 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
 
 ## Grupos
-Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser enviada até dia 25 de fevereiro.
+Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser enviada até dia 25 de fevereiro.
 
 ## Resumo do Calendário da UC
 *(em atualização)*
@@ -116,5 +116,4 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
-- Computer Networks, Tanenbaum, Andrew S., Prentice Hall http://books.google.pt/books?id=Pd-z64SJRBAC
-- Engenharia de Redes Informáticas, Edmundo Monteiro, Fernando Boavida, Editora FCA
+- 
