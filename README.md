@@ -60,35 +60,31 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 A avaliação poderá ser realizada de 4 formas distintas
 
-### 1. Avaliação Continua V1 - **Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
+### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
+Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
+Trata-se do método mais indicado para quem gosta de implementar soluções.
 
+### 2. Avaliação Continua V2 - Trabalhos Teóricos (20%) + Trabalho Prático (20%) + Teste Escrito Final  c/ 10 a 12 questões (60%)
 
-### 2. Avaliação Continua V2 - **Trabalhos Teóricos (20%) + Trabalho Prático (20%) + Teste Escrito Final  c/ 10 a 12 questões (60%)
+Os trabalhos teóricos baseiam-se na apresentação de dois papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
+Para a componente prática, os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 
+### 3. Avaliação Continua V3 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
 
-### 3. Avaliação Continua V3 - **Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
-
+Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
 ### 4. Exame Final - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
+Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
+**Nota 1:** Importante escolher os temas dos trabalhos teóricos até **25 de fevereiro**.
+**Nota 2:** Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
-O trabalho teórico baseia-se na apresentação de um paper. Valerá 15% para a classificação final da Unidade Curricular.Este trabalho é individual.
-Consulte o [Enunciado](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT.md) para efetuar a escolha do tema. 
+Depois de distribuídos os temas (até 27 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
 
-Importante escolher até **18 de fevereiro**.
-
-Depois de distribuídos os temas (até 20 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabT/TrabT-distribuicao.md).
-
-### 2. Trabalhos Práticos (40%)
-Enunciados dos [Trabalhos Práticos](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/TrabsP/TrabsPraticos.md) da unidade curricular. Este trabalho é em grupo (3 alunos no máximo, 2 alunos no minimo).
-
-Importante respeitar as datas de entrega. Não serão aceites adiamentos.
-
-### 3. Teste Escrito (45%)
-Teste Escrito unico a realizar na data marcada pela Secretaria Escolar.
+Em qualquer dos casos os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
 
 ### 4. Regras de Avaliacao Continua / Avaliação Final
 
