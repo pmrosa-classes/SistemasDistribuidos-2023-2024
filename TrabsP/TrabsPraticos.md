@@ -17,16 +17,28 @@ A implementação exata e seu contexto fica ao critério do aluno que terá que 
 
 ***Interessante e Relevante:*** *se dois grupos colaborarem e juntarem este trabalho com o Sistema de 2FA, cada grupo pode libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota. Portanto sugere-se colaboração estreita entre grupos para a elaboração de um sistema unico.*
 
-## 2. Repositório de Ficheiros On-Line Distribuído
+## 2. Repositório de Ficheiros Distribuído on-line
 
+A necessidade de acesso facilitado a ficheiros fez surgir um grande número de serviços como a DropBox, GoogleDrive, OneDrive, etc.
+Estes serviços são prestado em ambientes de Cloud e alem da facilidade e ubiquidade no seu acesso, estão configurados em alta disponibilidade.
+O que se pretende é a elaboração de um sistema deste tipo, com acesso facilitado através de uma página web (como opcional através de uma app Android) e que suporte um ambiente de alta disponibilidade com replicação e preferencialmente encriptação de dados.
 
+***Interessante e Relevante:*** *se dois grupos colaborarem e juntarem este trabalho com o Sistema de 2FA, cada grupo pode libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota. Portanto sugere-se colaboração estreita entre grupos para a elaboração de um sistema unico.*
 
 ## Sistema de Auto-Reposição de ficheiros / Anti-Ransomware
 
+Uma modificação não autorizada de um sistema de ficheiros é algo que se deseja evitar, seja devido a ataques de Ransomware ou outra causa.
+O que se pretende é criar um sistema que detete alterações individas de ficheiros armazenados e os reponha, caso se detete que foram acessos não autorizados. Os alunos devem iniciar o trabalho por propor a forma de deteção.
 
-## Sistema 2FA c/ App
+***Interessante e Relevante:*** *se dois grupos colaborarem e juntarem este trabalho com o Repositório de Ficheiros Distribuído on-line, cada grupo pode libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota. Portanto sugere-se colaboração estreita entre grupos para a elaboração de um sistema unico.*
 
+## Sistema 2FA (preferivelmente c/ app Android)
 
+Cada vez mais existem ataques a formas de validação simples baseadas em nomes de utilizadores e passwords. Desde há muito tempo que se iniciou a utilização de um sistema de dois fatores, baseado numa segunda validação que pode ser realizada de várias formas (uma notificação no telemovel; uma app que gere TOTP; etc).
+O que se pretende é que os alunos desenvolvam um sistema de 2FA que seja tolerante a faltas e distribuído.
+
+***Interessante e Relevante:*** *este sistema pode ser associado a todos os outro projetos, podendo cada grupo libertar-se de uma parte do projeto e mesmo assim terem a mesma percentagem da nota. Portanto sugere-se colaboração estreita entre grupos para a elaboração de um sistema unico.*
+ 
 ## Sistema de Armazenamento de Logs Distribuído
 
 
