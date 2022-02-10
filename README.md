@@ -43,14 +43,14 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 02 | 21/25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
 | 03 | 28 fev 4/3 mar | Chamadas a Procedimentos Remotos / gRPC |
 | 04 | 7/11 mar | Coordenação; Consenso em ambiente distribuídos |
-| 05 | 14/18 mar | ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
+| 05 | 14/18 mar | hhhhh |
 | 06 | 21/25 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
-| 07 | 28 mar 1 abr | ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
+| 07 | 28 mar 1 abr | hhhhhh |
 |   | 4/8 abr | *Páscoa*|
 | 08 | 20/21 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
-| 09 | 27/28 abr | ***Laboratório 5 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
+| 09 | 27/28 abr | hhhhh|
 | 10 | 4/5 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 11 | 11/12 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc); ***Laboratório 6 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
+| 11 | 11/12 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc)|
 | 12 | 18/19 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível)|
 | 13 | 25/26 mai | Apresentações dos trabalhos práticos Networking/IoT|
 
