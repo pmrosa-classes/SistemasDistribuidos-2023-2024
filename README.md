@@ -19,7 +19,7 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 - Comunicação Inter-Processos
 - Chamadas a Procedimentos Remotos / gRPC
 - Coordenação
-- Consenso em ambiente distribuídos
+- Consenso em ambientes distribuídos
 - Replicação
 - Transações
 - Concorrência
@@ -56,7 +56,7 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 ## Avaliação 
 
-A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** na [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
+A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
@@ -88,7 +88,7 @@ Nesta UC são instrumentos da avaliação contínua, os Trabalhos Teóricos e os
 
 Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
 
-Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão 4 apresentada em cima.
+Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão V3 apresentada em cima.
 
 ### 5. Outras Notas Relevantes para a Avaliação
 
@@ -97,7 +97,6 @@ Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pe
 3. Depois de distribuídos os temas (**a 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
 4. Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 5. Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
-
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
