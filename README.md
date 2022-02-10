@@ -17,10 +17,10 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 
 - Caracterização de Sistemas Distribuídos
 - Comunicação Inter-Processos
-- Chamadas a Procedimentos Remotos
+- Chamadas a Procedimentos Remotos / gRPC
 - Sistemas Operativos Distribuídos
 - Sistemas de Ficheiros
-- Serviços de Nomes
+- Serviços de Nomes/Diretorios
 - Coordenação
 - Replicação
 - Transações
