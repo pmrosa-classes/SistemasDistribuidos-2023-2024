@@ -39,10 +39,10 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | Aula | Data | Aula |
-| 01 | 14/18 fev | Apresentação; Introdução a Redes de Computadores & Aplicações; Introdução ao Modelo OSI  |
-| 02 | 21/25 fev | Modelo OSI - tecnologias (ethernet, wifi, 5g)  e layer 2 - VLANs, etc;	Modelo OSI - layer 3/routing; Modelo OSI - layer 4/transporte; ***Laboratório 1 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***  |
-| 03 | 28 fev 4/3 mar | Modelo OSI - camadas aplicacionais; Internet (história/breve); TCP/IP arquitetura, Unicast, Multicast; ***Laboratório 2 ([pré-requisito 0.1](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#01-instalação-do-cisco-packet-tracer-labs-13-e-6) para elaborar o laboratório)***|
-| 04 | 7/11 mar | TCP/IP pacotes IP / layer IP; TCP/IP ICMP, TCP, UDP / layer transporte; TCP/IP endereçamento IPv4 |
+| 01 | 14/18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
+| 02 | 21/25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
+| 03 | 28 fev 4/3 mar | Chamadas a Procedimentos Remotos / gRPC |
+| 04 | 7/11 mar | Coordenação; Consenso em ambiente distribuídos |
 | 05 | 14/18 mar | ***Laboratório 3 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)***|
 | 06 | 21/25 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
 | 07 | 28 mar 1 abr | ***Laboratório 4 ([pré-requisito 0.2](https://github.com/pmrosa-classes/ComputerNetworksEI/blob/main/AulasLabsPraticos/AulasLabsPraticos.md#02-instalação-de-máquinas-virtuais-em-equipamentos-dos-alunos-labs-24-e-5) para elaborar o laboratório)*** |
