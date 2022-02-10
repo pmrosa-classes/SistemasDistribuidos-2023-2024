@@ -63,6 +63,8 @@ A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão es
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
+Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até 25 de fevereiro.
+
 ### 2. Avaliação Continua V2 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
@@ -107,8 +109,11 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 ## Resumo do Calendário da UC
 *(em atualização)*
 - até 25 de fevereiro:
-  - Escolha do método de avaliação; Escolha dos temas dos trbalhos teóricos; Escolha do tema dos trabalhos práticos; Constituição dos grupos
-- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos
+  - Escolha do método de avaliação 
+  - (AC V1) Escolha do tema dos trabalhos práticos;
+  - (AC V1) Constituição dos grupos
+  - (AC V2) Escolha dos temas dos trabalhos teóricos;
+- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
 - a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
 - até 20 de maio - Entrega dos trabalhos práticos
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
