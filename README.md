@@ -51,12 +51,12 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 10 | 25 e 29 abr | Aplicação de Sistemas Distribuídos: IoT |
 | 11 | 2 e 6 mai | Tópicos de Segurança em ambientes distribuídos |
 | 12 | 9 e 13 mai | *Apoio Trabalhos Práticos* |
-| 13 | 16 e 20 mai | Apresentação dos Trabalhos Práticos |
+| 13 | 16 e 20 mai | *Apoio Trabalhos Práticos*|
 | 14 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
-A avaliação poderá ser realizada de 3 formas distintas
+A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro**
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
