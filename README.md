@@ -120,6 +120,11 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
-- George Coulouris, Jean Dollimore, Tim Kindberg, Distributed Systems – Concepts and Design Second Edition, Addison-Wesley
-- Guedes, Paulo, Tecnologia de Sistemas Distribuídos, FCA
-- Tanenbaum, Andrew S., Modern Operating Systems, Prentice Hall
+- Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
+- TANENBAUM, Andrew, STEEN, Maarten Van (2016), Distributed Systems: Principles and Paradigms, 2nd Edition, Prentice Hall;
+- COULORIS, George, DOLLIMORE, Jean, KINDBERG, Tim (2011), Distributed Systems: Concepts and Design, 4th Edition, Addison-Wesley;
+- DOUGLAS E., Comer, “Internetworking with TCP/IP - Volume I; Principles, Protocols, And Architecture”, Second Edition, Prentice Hall
+- CARDOSO, Jorge (2008), Programação de Sistemas Distribuídos em JAVA, FCA Editora de Informática.
+- MARQUES, José Alves , GUEDES, Paulo (2003), Tecnologia de Sistemas Distribuídos, 2a edição, FCA Editora de Informática;
+- GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
+
