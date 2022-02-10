@@ -18,17 +18,17 @@ Existem vários trabalhos a serem realizados para alunos em **avaliação contin
 - Caracterização de Sistemas Distribuídos
 - Comunicação Inter-Processos
 - Chamadas a Procedimentos Remotos / gRPC
-- Sistemas Operativos Distribuídos
-- Sistemas de Ficheiros
-- Serviços de Nomes/Diretorios
 - Coordenação
+- Consenso em ambiente distribuídos
 - Replicação
 - Transações
 - Concorrência
-- Blockchain
-- IoT
-- Segurança
-- 
+- Sistemas de Ficheiros
+- Serviços de Nomes/Diretorios
+- Aplicação de Sistemas Distribuídos: Blockchain
+- Aplicação de Sistemas Distribuídos: IoT
+- Tópicos de Segurança em ambientes distribuídos
+
 *Slides disponiveis no Canvas.*
 
 ### Aulas de Suporte aos Trabalhos Práticos:
@@ -119,4 +119,6 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
-- 
+- George Coulouris, Jean Dollimore, Tim Kindberg, Distributed Systems – Concepts and Design Second Edition, Addison-Wesley
+- Guedes, Paulo, Tecnologia de Sistemas Distribuídos, FCA
+- Tanenbaum, Andrew S., Modern Operating Systems, Prentice Hall
