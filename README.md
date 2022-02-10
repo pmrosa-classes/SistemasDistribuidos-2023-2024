@@ -77,14 +77,13 @@ Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10%
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
+### Notas Relevantes para a Avaliação
 
-**Nota 1:** Importante escolher os temas dos trabalhos teóricos até **25 de fevereiro**.
-
-**Nota 2:** Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
-
-Depois de distribuídos os temas (até 27 de fevereiro) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
-
-Em qualquer dos casos os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
+1. Escolher método de avaliação na Tarefa apropriada no Canvas até dia **25 de fevereiro**
+2. Escolher os temas dos trabalhos teóricos na Tarefa apropriada no Canvas até **25 de fevereiro**.
+3. Depois de distribuídos os temas (**a 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
+4. Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
+5. Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
 
 ### 4. Regras de Avaliacao Continua / Avaliação Final
 
@@ -104,7 +103,8 @@ Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pe
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
 - Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
-- Laboratórios Práticos com exercícios práticos para configuração dos equipamentos em simulador Cisco Packet Tracer e exercicios práticos com máquinas virtuais (neste repositório)
+- Orientações na escolha dos papers cientificos a apresentar
+- Orientações para a elaboração dos trabalhos práticos na avaliação continua
 
 ## Grupos
 Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser enviada até dia 25 de fevereiro.
