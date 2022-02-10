@@ -69,6 +69,8 @@ Quem escolher este método de avaliação continua terá que preencher [esta Tar
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
+Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8781) no Canvas para indicar os cinco papers escolhido (o Docente escolherá 3).
+
 ### 3. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
