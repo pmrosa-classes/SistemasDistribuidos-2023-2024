@@ -35,7 +35,7 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 
 Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos. A definição final das datas dessas aulas deverá ficar decidida nas primeiras 3 a 4 semanas de aulas.
 
-### Planeamento previsto (pode sofrer alterações!)[#planeamento]
+### Planeamento previsto (pode sofrer alterações!)
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 14 e 18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
