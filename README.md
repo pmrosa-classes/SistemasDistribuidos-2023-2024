@@ -1,10 +1,10 @@
 # Sistemas Distribuídos 2021-2022 - Engenharia Informática
-*Conteudos da Unidade Curricular de Sistemas Distribuídos em exclusivo no curso de ***Engenharia Informática 3º ano*** do IADE/Universidade Europeia*
+*Conteudos da Unidade Curricular de Sistemas Distribuídos para o curso de ***Engenharia Informática 3º ano*** do IADE/Universidade Europeia*
 
-O objectivo da cadeira é dotar os alunos de conhecimentos da concepção das componentes protocolares das redes de computadores, bem como de algumas componentes práticas de redes TCP/IP e de equipamentos activos de rede.
+O objetivo da unidade curricular é analisar soluções e tecnologias de desenvolvimento de aplicações distribuídas que permitam uma correta disponibilidade dos serviços de forma escalável e extensível, através da utilização de mecanismos tolerantes a faltas. 
+Análise de soluções atuais como gRPC, Blockchain e aplicação a ambientes IoT, bem como outras consideradas adequadas aos assuntos estudados.
 
-Existem vários trabalhos a serem realizados para alunos em **avaliação continua**. Nas aulas teóricas os alunos deverão escolher um paper de investigação cientifica sobre temas da cadeira (Networking/IoT) e apresentar um resumo oralmente para a turma. Nas aulas práticas existem um cojunto de trabalhos práticos, de acordo com as matérias lecionadas nos laboratórios, incluindo um trabalho final de maior envergadura que consiste em implementar uma rede multi-serviço com divisão de tráfego, incluindo equipamentos ativos de rede, terminais e componentes IoT.
-
+Existem dois sistemas de avaliação continua à escolha dos alunos bem como a avaliação em exame. 
 
 ### Horário 
 | Dia | Hora | 
