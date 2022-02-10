@@ -38,46 +38,40 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 ### Planeamento previsto (pode sofrer alterações!)[#planeamento]
 | Aula | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| Aula | Data | Aula |
-| 01 | 14/18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
-| 02 | 21/25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
-| 03 | 28 fev 4/3 mar | Chamadas a Procedimentos Remotos / gRPC |
-| 04 | 7/11 mar | Coordenação; Consenso em ambiente distribuídos |
-| 05 | 14/18 mar | hhhhh |
-| 06 | 21/25 mar | TCP/IP endereçamento IPv4 (inclui subnetting)|
-| 07 | 28 mar 1 abr | hhhhhh |
-|   | 4/8 abr | *Páscoa*|
-| 08 | 20/21 abr | Protocolos (DNS, DHCP, HTTP, SNMP, etc) – essencial: saber exatemente como se resolvem os nomes; saber exatamente como se distribui endereçamento IP dinamicamente; IPv4 vs IPv6 enquadrar IPv6 como “obrigatório” nos dias de hoje|
-| 09 | 27/28 abr | hhhhh|
-| 10 | 4/5 mai | IPv6 features e endereçamento (inclui diferentes dimensões de redes e distinções na divisão com IPv4); IPv6 e serviços (DNSv6 e DHCPv6); Laboratório 5|
-| 11 | 11/12 mai | IoT enquadrar com serviços de Cloud/associar a virtualização; Fog computing; necessidades de networking, armazenamento em IoT; exemplos práticos (smart homes, buildings, cities, veículos autónomos, etc); referencia a big data; referencia a segurança em IOT, nem que seja apenas com exemplos estilo Miai botnet, etc)|
-| 12 | 18/19 mai | Apoio ao trabalho prático Networking/IoT; (possível salvaguarda para a realização de laboratórios atrasados, caso seja possível)|
-| 13 | 25/26 mai | Apresentações dos trabalhos práticos Networking/IoT|
+| 01 | 14 e 18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
+| 02 | 21 e 25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
+| 03 | 28 fev e 4 mar | Chamadas a Procedimentos Remotos / gRPC |
+| 04 | 7 e 11 mar | Coordenação; Consenso em ambiente distribuídos |
+| 05 | 14 e 18 mar | Replicação; *Apoio Trabalhos Práticos* |
+| 06 | 21 e 25 mar | Transações|
+| 07 | 28 mar e 1 abr | Concorrência; Sistemas de Ficheiros |
+|   | 4 e 8 abr | *Páscoa*|
+| 08 | 11 e 15 abr |  Serviços de Nomes/Diretorios; *Apoio Trabalhos Práticos* |
+| 09 | 18 e 22 abr | Aplicação de Sistemas Distribuídos: Blockchain |
+| 10 | 25 e 29 abr | Aplicação de Sistemas Distribuídos: IoT |
+| 11 | 2 e 6 mai | Tópicos de Segurança em ambientes distribuídos |
+| 12 | 9 e 13 mai | *Apoio Trabalhos Práticos* |
+| 13 | 16 e 20 mai | Apresentação dos Trabalhos Práticos |
+| 14 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
-A avaliação poderá ser realizada de 4 formas distintas
+A avaliação poderá ser realizada de 3 formas distintas
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
-### 2. Avaliação Continua V2 - Trabalhos Teóricos (20%) + Trabalho Prático (20%) + Teste Escrito Final  c/ 10 a 12 questões (60%)
-
-Os trabalhos teóricos baseiam-se na apresentação de dois papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
-
-Para a componente prática, os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
-
-### 3. Avaliação Continua V3 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
+### 2. Avaliação Continua V2 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
-### 4. Exame Final V4 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+### 3. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
-### 5. Regras de Avaliacao Continua / Avaliação Final
+### 4. Regras de Avaliacao Continua / Avaliação Final
 
 De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** publicado em DR a 30 de setembro de 2021, os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui dois momentos de avaliação:*
 - *A realização de vários instrumentos de avaliação durante o período letivo, os quais devem, obrigatoriamente, representar um mínimo de 30 % e um máximo de 70 %, na ponderação para o cálculo da classificação final da unidade curricular;*
