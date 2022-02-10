@@ -77,15 +77,7 @@ Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10%
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
-### Notas Relevantes para a Avaliação
-
-1. Escolher método de avaliação na Tarefa apropriada no Canvas até dia **25 de fevereiro**
-2. Escolher os temas dos trabalhos teóricos na Tarefa apropriada no Canvas até **25 de fevereiro**.
-3. Depois de distribuídos os temas (**a 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
-4. Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
-5. Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
-
-### 4. Regras de Avaliacao Continua / Avaliação Final
+### 5. Regras de Avaliacao Continua / Avaliação Final
 
 De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** publicado em DR a 30 de setembro de 2021, os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui dois momentos de avaliação:*
 - *A realização de vários instrumentos de avaliação durante o período letivo, os quais devem, obrigatoriamente, representar um mínimo de 30 % e um máximo de 70 %, na ponderação para o cálculo da classificação final da unidade curricular;*
@@ -99,6 +91,15 @@ Nesta UC são instrumentos da avaliação contínua, os Trabalhos Teóricos e os
 Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão 4 apresentada em cima.
+
+### 5. Outras Notas Relevantes para a Avaliação
+
+1. Escolher método de avaliação na Tarefa apropriada no Canvas até dia **25 de fevereiro**
+2. Escolher os temas dos trabalhos teóricos na Tarefa apropriada no Canvas até **25 de fevereiro**.
+3. Depois de distribuídos os temas (**a 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
+4. Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
+5. Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
+
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
