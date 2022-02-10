@@ -56,7 +56,7 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 ## Avaliação 
 
-A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro**
+A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** na [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
 
@@ -102,11 +102,12 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Orientações para a elaboração dos trabalhos práticos na avaliação continua
 
 ## Grupos
-Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser enviada até dia 25 de fevereiro.
+Os trabalhos práticos são em grupo. A [constituição dos grupos](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md) (3 alunos no máximo, 2 alunos no minimo) deve ser enviada através [desta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- até 25 de fevereiro - Escolha do método de avaliação; Escolha dos temas dos trbalhos teóricos; Escolha do tema dos trabalhos práticos; Constituição dos grupos
+- até 25 de fevereiro:
+  - Escolha do método de avaliação; Escolha dos temas dos trbalhos teóricos; Escolha do tema dos trabalhos práticos; Constituição dos grupos
 - 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos
 - a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
 - até 20 de maio - Entrega dos trabalhos práticos
