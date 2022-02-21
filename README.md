@@ -119,7 +119,7 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
   - (AC V1) Constituição dos grupos
   - (AC V2) Escolha dos temas dos trabalhos teóricos;
 - 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
-- 4 de março - Entrega da proposta do trablho a realizar
+- 4 de março - Entrega da proposta do trabalho a realizar
 - a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
 - até 20 de maio - Entrega dos trabalhos práticos
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
