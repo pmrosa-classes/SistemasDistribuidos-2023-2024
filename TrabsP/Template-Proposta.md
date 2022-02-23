@@ -32,7 +32,12 @@ A versão do relatório final deverá ser identica ao formato da proposta, alter
 
 O nome do ficheiro deve ser ex. **g01-relatorio.pdf**.
 
-## 3. Repositório Github
+## 3. Entrega do Projeto Final
+
+O projeto deve ser entregue num ficheiro ZIP que inclua todas as instruções para a sua parametrização e execução, incluindo source code e scripts da base de dados.
+O nome do ficheiro deve ser ex. **g01-projeto.zip**.
+
+## 4. Repositório Github
 
 Os grupos devem manter atualizado o README.md do repositório de Github durante o desenvolvimento do trabalho.
 As propostas também deverão estar disponiveis no repositorio numa pasta identificada *Documentos*
