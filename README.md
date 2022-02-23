@@ -65,6 +65,10 @@ Trata-se do método mais indicado para quem gosta de implementar soluções.
 
 Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até 25 de fevereiro.
 
+Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
+
+Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
+
 ### 2. Avaliação Continua V2 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
@@ -90,13 +94,7 @@ Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 
 
 Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão V3 apresentada em cima.
 
-### 5. Outras Notas Relevantes para a Avaliação
-
-1. Escolher método de avaliação na Tarefa apropriada no Canvas até dia **25 de fevereiro**
-2. Escolher os temas dos trabalhos teóricos na Tarefa apropriada no Canvas até **25 de fevereiro**.
-3. Depois de distribuídos os temas (**a 27 de fevereiro**) as datas de apresentação estarão disponiveis [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md).
-4. Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
-5. Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
+Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
 
 ## Presenças
 
@@ -114,12 +112,12 @@ Os trabalhos práticos são em grupo. A [constituição dos grupos](https://gith
 ## Resumo do Calendário da UC
 *(em atualização)*
 - até 25 de fevereiro:
-  - Escolha do método de avaliação 
-  - (AC V1) Escolha do tema dos trabalhos práticos;
+  - Escolher método de avaliação na Tarefa apropriada no Canvas 
+  - (AC V1) Escolher os temas dos trabalhos teóricos na Tarefa apropriada;
   - (AC V1) Constituição dos grupos
   - (AC V2) Escolha dos temas dos trabalhos teóricos;
 - 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
-- 4 de março - Entrega da proposta do trabalho a realizar
+- 4 de março - Entrega da proposta do trabalho a realizar - Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
 - a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
 - até 20 de maio - Entrega dos trabalhos práticos
 - 25 e 26 de maio - Apresentações dos trabalhos práticos 
