@@ -3,7 +3,7 @@
 Os alunos que preferirem Avaliação Continua V1 terão que efetuar um trabalho prático que valerá 65% da classificação final. Nesses casos o teste final apenas vale 35%.
 É uma solução para os alunos que preferem uma abordagem mais prática à cadeira. Será ao mesmo tempo uma forma de avaliação mais vocacionada para a auto-formação que dá mais liberdade aos alunos mas também mais responsabilidade para com as decisões que vão tomando (preferencialmente de acordo com o Docente sendo que para essa interação haverão aulas de apoio).
 
-São propostos alguns temas de trabalhos. A primeira entrega será uma proposta mais descritiva, do que os enunciados seguintes, sobre o que será o trabalho prático e terá que ser entregue **até dia 4 de março** (poderá sofrer alterações posteriromente).
+São propostos alguns temas de trabalhos. A primeira entrega será uma proposta mais descritiva, do que os enunciados seguintes, sobre o que será o trabalho prático e terá que ser entregue **até dia 4 de março** (poderá sofrer alterações posteriromente). O template para a Proposta está disponível na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do Projeto
 
 Todos os trabalhos terão que abordar a temática da **Tolerância a Faltas** em conjunto com outros assuntos estudados.
 
