@@ -12,11 +12,11 @@ O formato da proposta é comum a todos os trabalhos:
 3. Descrição da solução a implementar, incluindo:
    1. Descrição genérica da solução a implementar;
    2. Enquadramento nas áreas da Unidade Curricular: identificar necessidades de prestação do serviço de forma distribuída, concorrência, tolerância a faltas, necessidades de sincronismo, segurança, etc.
-   3. Requisitos Técnicos para desenvolvimento do projeto
+   3. Requisitos Técnicos para desenvolvimento do projeto;
    4. Arquitetura da Solução;
-   5. Tecnologias a utilizar
-4. Planeamento e calendarização, incluindo distribuição de tarefas (preferencialmente gráfico de Gantt)
-5. Bibliografia
+   5. Tecnologias a utilizar;
+4. Planeamento e calendarização, incluindo distribuição de tarefas (preferencialmente gráfico de Gantt);
+5. Bibliografia;
 
 A entrega deve ser efetuado em PDF com um formato que inclui o identificador do grupo e o tipo de documento, exemplo: **g01-proposta-v1.pdf**
 
@@ -29,6 +29,8 @@ A versão do relatório final deverá ser identica ao formato da proposta, alter
 - Nos Pontos 3. *iv* e *v* indicar a arquitetura final e as tecnologias utilizadas
 - No Ponto 4 indicar a calenderização seguida
 - Adicionar, antes da Bilbiografia, um Ponto para **Resultados** que deverá descrever os resultados atingidos, o que não foi efetuado, os pontos fortes e fracos da implementação conseguida, etc.
+
+O nome do ficheiro deve ser ex. **g01-relatorio.pdf**.
 
 ## 3. Repositório Github
 
