@@ -4,7 +4,7 @@
 
 A proposta deverá ter no máximo **6 páginas**, contando com o rosto e a bibliografia, deve usar *font* maior ou igual a 11pt com espaçamento standard de linhas. Numerar as páginas adequadamente.
 
-Usar discurso direto e resumido (*less is more*).
+Usar discurso direto e resumido (*less is more*). **Não perder demasiado tempo com a proposta mas o documento responsabiliza os grupos pelo que foi proposto e deverá ser implementado.**
 
 O formato da proposta é comum a todos os trabalhos:
 1. Folha de rosto com identificação da Universidade, Faculdade, Elementos do Grupo, Titulo do Trabalho e link para repositório de Github;
