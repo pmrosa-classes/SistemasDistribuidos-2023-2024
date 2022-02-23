@@ -1,5 +1,6 @@
-# Proposta de Trabalho Prático
-## Formato de documento obrigatório
+# Documentação do Trabalho Prático
+
+## 1. Formato de documento obrigatório
 
 A proposta deverá ter no máximo **6 páginas**, contando com o rosto e a bibliografia, deve usar *font* maior ou igual a 11pt com espaçamento standard de linhas. Numerar as páginas adequadamente.
 
@@ -14,11 +15,22 @@ O formato da proposta é comum a todos os trabalhos:
    3. Requisitos Técnicos para desenvolvimento do projeto
    4. Arquitetura da Solução;
    5. Tecnologias a utilizar
-8. Planeamento e calendarização, incluindo distribuição de tarefas (preferencialmente gráfico de Gantt)
-9. Bibliografia
+4. Planeamento e calendarização, incluindo distribuição de tarefas (preferencialmente gráfico de Gantt)
+5. Bibliografia
 
 A entrega deve ser efetuado em PDF com um formato que inclui o identificador do grupo e o tipo de documento, exemplo: **g01-proposta-v1.pdf**
 
 **Nota:** O que é descrito na primeira proposta poderá sofrer alterações ao longo do projeto. Quando forem significativas (introduzir ou retirar funcionalidades; alterar significativamente a componente tecnológica; etc) os grupos devem entregar **uma** segunda Proposta - a data indicativa para essa análise serão as semanas de 2 de março e/ou 25 de abril. O formato do documento é o mesmo, o nome do ficheiro deve ser ex. **g01-proposta-v2.pdf**.
 
-**Nota 2:** Manter atualizado o README.md do repositório de Github durante o desenvolvimento do trabalho. As propostas também deverão estar disponiveis no repositorio numa pasta identificada *Documentos*
+## 2. Formato do Relatório Final
+
+A versão do relatório final deverá ser identica ao formato da proposta, alterando:
+- No ponto 1. enquadrar as alterações realizadas durante o projeto, relativamente à proposta inicial (poderá já constar de um segundo relatório)
+- Nos Pontos 3. *iv* e *v* indicar a arquitetura final e as tecnologias utilizadas
+- No Ponto 4 indicar a calenderização seguida
+- Adicionar, antes da Bilbiografia, um Ponto para **Resultados** que deverá descrever os resultados atingidos, o que não foi efetuado, os pontos fortes e fracos da implementação conseguida, etc.
+
+## 3. Repositório Github
+
+Os grupos devem manter atualizado o README.md do repositório de Github durante o desenvolvimento do trabalho.
+As propostas também deverão estar disponiveis no repositorio numa pasta identificada *Documentos*
