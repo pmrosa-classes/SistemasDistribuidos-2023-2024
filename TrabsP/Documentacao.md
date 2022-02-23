@@ -29,6 +29,7 @@ A versão do relatório final deverá ser identica ao formato da proposta, alter
 - Nos Pontos 3. *iv* e *v* indicar a arquitetura final e as tecnologias utilizadas
 - No Ponto 4 indicar a calenderização seguida
 - Adicionar, antes da Bilbiografia, um Ponto para **Resultados** que deverá descrever os resultados atingidos, o que não foi efetuado, os pontos fortes e fracos da implementação conseguida, etc.
+- Poderá adicionar até 3 páginas com anexos (diagramas, etc).
 
 O nome do ficheiro deve ser ex. **g01-relatorio.pdf**.
 
