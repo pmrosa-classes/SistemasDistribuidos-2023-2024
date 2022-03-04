@@ -56,6 +56,8 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 ## Avaliação 
 
+**ATUALIZAÇÂO (2022.03.04) - Tipo de avaliação por cada aluno disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=229476512&single=true).
+
 A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (65%) + Teste Escrito Final c/ 6 a 8 questões (35%)
