@@ -2,6 +2,8 @@
 
 ## Componente unica de avaliação continua V2: Análise e apresentação de dois papers sobre Blockchain ou Internet of Things – 30% da avaliação – realização voluntária.
 
+**ATUALIZAÇÃO (2022.03.11) - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
+
 Os alunos deverão escolher cinco papers que tenham sido apresentados numa das conferências com rank A+ ou A em http://portal.core.edu.au/conf-ranks/ nos anos de 2018, 2019, 2020 ou já em 2021 ou em alternativa de um destes sites:
 - https://dl.acm.org
 - https://www.usenix.org/conference/usenixsecurity20/technical-sessions
