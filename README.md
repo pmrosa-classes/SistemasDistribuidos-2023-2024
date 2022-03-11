@@ -57,8 +57,11 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 ## Avaliação 
 
 **ATUALIZAÇÃO (2022.03.11) - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
+
 **ATUALIZAÇÃO (2022.03.11) - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
-**ATUALIZAÇÃO (2022.03.11) - Comentários às primeiras propostas já disponiveis na página de** [Grupos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
+
+**ATUALIZAÇÃO (2022.03.11) - Comentários às primeiras propostas já disponiveis na página de** [Grupos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true
+
 **ATUALIZAÇÂO (2022.03.04) - Tipo de avaliação por cada aluno disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=229476512&single=true).
 
 A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
@@ -139,6 +142,8 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
 
 ## Logs
+
+2022.03.11 - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
 
 2022.03.11 - Comentários às primeiras propostas já disponiveis na página de** [Grupos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
 
