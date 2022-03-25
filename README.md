@@ -43,7 +43,7 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 03 | 4 mar | Chamadas a Procedimentos Remotos / gRPC |
 | 04 | 7 e 11 mar | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
 | 05 | 14 e 18 mar | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| 06 | 21 e mar | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
+| 06 | 21 e 25 mar | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
 | 07 | 28 mar e 1 abr |  Serviços de Nomes/Diretorios; *Apoio Trabalhos Práticos* |
 |   | 4 e 8 abr | *Páscoa*|
 | 08 | 11 e 15 abr |  Aplicação de Sistemas Distribuídos: Blockchain; *Apoio Trabalhos Práticos* |
