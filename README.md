@@ -36,7 +36,7 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos. A definição final das datas dessas aulas deverá ficar decidida nas primeiras 3 a 4 semanas de aulas.
 
 ### Planeamento previsto (pode sofrer alterações!)
-| Aula | Data | Aula |
+| Semana | Data | Aula |
 | :-----------: | :-----------: | :---------- |
 | 01 | 14 e 18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
 | 02 | 21 e 25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
@@ -44,15 +44,15 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 04 | 7 e 11 mar | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
 | 05 | 14 e 18 mar | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
 | 06 | 21 e 25 mar | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
-| 07 | 28 mar e 1 abr |  Serviços de Nomes/Diretorios; *Apoio Trabalhos Práticos* |
-|   | 4 e 8 abr | *Páscoa*|
-| 08 | 11 e 15 abr |  Aplicação de Sistemas Distribuídos: Blockchain; *Apoio Trabalhos Práticos* |
-| 09 | 18 e 22 abr |  *Apoio Trabalhos Práticos*  |
-| 10 | 29 abr | Aplicação de Sistemas Distribuídos: IoT |
-| 11 | 2 e 6 mai | Tópicos de Segurança em ambientes distribuídos |
-| 12 | 9 e 13 mai | *Apoio Trabalhos Práticos* |
-| 13 | 16 e 20 mai | *Apoio Trabalhos Práticos*|
-| 14 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
+| 07 | 28 mar e 1 abr |  Serviços de Nomes/Diretorios; Blockchain |
+| 08 |  4 e 8 abr | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
+| 09 | 11 e 15 abr | *Páscoa*  |
+| 10 | 18 e 22 abr |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
+| 11 | 29 abr | *Apoio Trabalhos Práticos* |
+| 12 | 2 e 6 mai | *Apoio Trabalhos Práticos* |
+| 13 | 9 e 13 mai | *Apoio Trabalhos Práticos* |
+| 14 | 16 e 20 mai | *Apoio Trabalhos Práticos*|
+| 15 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
