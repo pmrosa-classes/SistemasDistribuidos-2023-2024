@@ -128,7 +128,7 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - 4 de março - Entrega da proposta do trabalho a realizar - Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
 - a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
 - até 20 de maio - Entrega dos trabalhos práticos
-- 25 e 26 de maio - Apresentações dos trabalhos práticos 
+- 23 e 27 de maio - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
 - Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
