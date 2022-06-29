@@ -56,7 +56,7 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 ## Avaliação 
 
-**ATUALIZAÇÃO (20220612): Classificações de Avaliação Continua (Trab Prático)** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
+**ATUALIZAÇÃO (20220629): Classificações Finais** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
 
 **ATUALIZAÇÃO (2022.05.09) - Calendário das Apresentações**
 
@@ -147,6 +147,8 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
 
 ## Log
+
+2022.06.29: Classificações Finais [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
 
 2022.06.12: Classificações de Avaliação Continua (Trab Prático)** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
 
