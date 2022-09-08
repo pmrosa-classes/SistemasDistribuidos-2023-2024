@@ -1,4 +1,4 @@
-# Sistemas Distribuídos 2021-2022 - Engenharia Informática
+# Sistemas Distribuídos 2022-2023 - Engenharia Informática
 *Conteudos da Unidade Curricular de Sistemas Distribuídos para o curso de ***Engenharia Informática 3º ano*** do IADE/Universidade Europeia*
 
 O objetivo da unidade curricular é analisar soluções e tecnologias de desenvolvimento de aplicações distribuídas que permitam uma correta disponibilidade dos serviços de forma escalável e extensível, através da utilização de mecanismos tolerantes a faltas. 
