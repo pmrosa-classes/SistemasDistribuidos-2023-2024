@@ -9,8 +9,7 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 ### Horário 
 | Dia | Hora | 
 | :-----------: | :-----------: | 
-| Segunda-feira | 14:00 - 15:40 | 
-| Sexta-feira | 17:00 - 18:40 | 
+| Quarta-feira | 16:00 - 18:40 | 
 
 ## Programa
 ### Aulas Teóricas
@@ -55,19 +54,6 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 15 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
-
-**ATUALIZAÇÃO (20220629): Classificações Finais** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
-
-**ATUALIZAÇÃO (2022.05.09) - Calendário das Apresentações**
-
-- Dia **23.05.2022** - Grupos **1,2,3 e 4**
-- Dia **27.05.2022** - Grupos **5,6,7**
-
-**ATUALIZAÇÃO (2022.03.11) - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
-
-**ATUALIZAÇÃO (2022.03.11) - Comentários às primeiras propostas já disponiveis na página de** [Grupos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
-
-**ATUALIZAÇÂO (2022.03.04) - Tipo de avaliação por cada aluno disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=229476512&single=true).
 
 A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **25 de fevereiro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
 
@@ -122,8 +108,6 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 ## Grupos
 Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro..
 
-**ATUALIZAÇÃO (20220304): A constituição dos grupos já está disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
-
 ## Resumo do Calendário da UC
 *(em atualização)*
 - até 25 de fevereiro:
@@ -148,14 +132,4 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 ## Log
 
-2022.06.29: Classificações Finais [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
 
-2022.06.12: Classificações de Avaliação Continua (Trab Prático)** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1894888675&single=true)
-
-2022.03.11 - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
-
-2022.03.11 - Comentários às primeiras propostas já disponiveis na página de** [Grupos](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
-
-2022.03.04 - Tipo de avaliação por cada aluno disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=229476512&single=true).
-
-2022.03.04 - A constituição dos grupos já está disponível** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=703206536&single=true)
