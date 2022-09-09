@@ -37,21 +37,25 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 ### Planeamento previsto (pode sofrer alterações!)
 | Semana | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 e 18 fev | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
-| 02 | 21 e 25 fev | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
-| 03 | 4 mar | Chamadas a Procedimentos Remotos / gRPC |
-| 04 | 7 e 11 mar | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
-| 05 | 14 e 18 mar | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| 06 | 21 e 25 mar | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
-| 07 | 28 mar e 1 abr |  Serviços de Nomes/Diretorios; Blockchain |
-| 08 |  4 e 8 abr | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 09 | 11 e 15 abr | *Páscoa*  |
-| 10 | 18 e 22 abr |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
-| 11 | 29 abr | *Apoio Trabalhos Práticos* |
-| 12 | 2 e 6 mai | *Apoio Trabalhos Práticos* |
-| 13 | 9 e 13 mai | *Apoio Trabalhos Práticos* |
-| 14 | 16 e 20 mai | *Apoio Trabalhos Práticos*|
-| 15 | 23 e 27 mai | Apresentação dos Trabalhos Práticos |
+| 01 | 14 set | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
+| 02 | 21 set | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
+| 03 | 28 set | Chamadas a Procedimentos Remotos / gRPC |
+| 04 | 05 out | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
+| 05 | 12 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
+| 06 | 19 out | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
+| 07 | 26 out | ????? Serviços de Nomes/Diretorios; Blockchain |
+| 08 | 02 nov | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
+| 09 | 09 nov | *Páscoa*  |
+| 10 | 16 nov |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
+| 11 | 23 nov | *Apoio Trabalhos Práticos* |
+| 12 | 30 nov | *Apoio Trabalhos Práticos* |
+| 13 | 07 dez | *Apoio Trabalhos Práticos* |
+| 14 | 14 dez | *Apoio Trabalhos Práticos*|
+| 15 | 21 dez | *Férias de Natal* |
+| 16 | 28 dez | *Férias de Natal* |
+| 17 | 04 jan | Apresentação dos Trabalhos Práticos |
+| 18 | 11 jan | Apresentação dos Trabalhos Práticos |
+| 19 | 18 jan | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
