@@ -37,19 +37,19 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 ### Planeamento previsto (pode sofrer alterações!)
 | Semana | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 set | Apresentação; Avaliação Continua; Caracterização de Sistemas Distribuídos  |
-| 02 | 21 set | Caracterização de Sistemas Distribuídos; Comunicação Inter-Processos  |
-| 03 | 28 set | Chamadas a Procedimentos Remotos / gRPC |
-| 04 | 05 out | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
-| 05 | 12 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| 06 | 19 out | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
-| 07 | 26 out | Serviços de Nomes/Diretorios; Blockchain |
+| 01 | 14 set | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
+| 02 | 21 set | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
+| 03 | 28 set | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
+| 04 | 05 out | Chamadas a Procedimentos Remotos / gRPC; Coordenação |
+| 05 | 12 out | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
+| 06 | 19 out | Replicação; *Apoio Trabalhos Práticos*  |
+| 07 | 26 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
 | -- | 02 nov | *Não há aulas de SID nesta semana* |
-| 08 | 09 nov | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos*  |
-| 09 | 16 nov |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
-| 10 | 23 nov | *Apoio Trabalhos Práticos* |
+| 08 | 09 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
+| 09 | 16 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
+| 10 | 23 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
 | 11 | 30 nov | *Apoio Trabalhos Práticos* |
-| 12 | 07 dez | *Apoio Trabalhos Práticos* |
+| 12 | 07 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
 | 13 | 14 dez | *Apoio Trabalhos Práticos*|
 | -- | 21 dez | *Férias de Natal* |
 | -- | 28 dez | *Férias de Natal* |
