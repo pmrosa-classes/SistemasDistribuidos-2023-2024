@@ -43,19 +43,17 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 04 | 05 out | Coordenação; Consenso em ambiente distribuídos; Replicação; *Apoio Trabalhos Práticos* |
 | 05 | 12 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
 | 06 | 19 out | Sistemas de Ficheiros; *Apoio Trabalhos Práticos* |
-| 07 | 26 out | ????? Serviços de Nomes/Diretorios; Blockchain |
-| 08 | 02 nov | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 09 | 09 nov | *Páscoa*  |
-| 10 | 16 nov |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
-| 11 | 23 nov | *Apoio Trabalhos Práticos* |
-| 12 | 30 nov | *Apoio Trabalhos Práticos* |
-| 13 | 07 dez | *Apoio Trabalhos Práticos* |
-| 14 | 14 dez | *Apoio Trabalhos Práticos*|
-| 15 | 21 dez | *Férias de Natal* |
-| 16 | 28 dez | *Férias de Natal* |
-| 17 | 04 jan | Apresentação dos Trabalhos Práticos |
-| 18 | 11 jan | Apresentação dos Trabalhos Práticos |
-| 19 | 18 jan | Apresentação dos Trabalhos Práticos |
+| 07 | 26 out | Serviços de Nomes/Diretorios; Blockchain |
+| -- | 02 nov | *Não há aulas de SID nesta semana* |
+| 08 | 09 nov | Aplicação de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos*  |
+| 09 | 16 nov |  Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos*  |
+| 10 | 23 nov | *Apoio Trabalhos Práticos* |
+| 11 | 30 nov | *Apoio Trabalhos Práticos* |
+| 12 | 07 dez | *Apoio Trabalhos Práticos* |
+| 13 | 14 dez | *Apoio Trabalhos Práticos*|
+| -- | 21 dez | *Férias de Natal* |
+| -- | 28 dez | *Férias de Natal* |
+| 14 | 04 jan | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
