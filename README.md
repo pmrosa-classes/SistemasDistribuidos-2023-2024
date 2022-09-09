@@ -64,7 +64,7 @@ A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão es
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até 16 de setembro.
+Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
 
 Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
 
@@ -112,16 +112,15 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- até 25 de fevereiro:
-  - Escolher método de avaliação na Tarefa apropriada no Canvas 
-  - (AC V1) Escolher os temas dos trabalhos teóricos na Tarefa apropriada;
-  - (AC V1) Constituição dos grupos
-  - (AC V2) Escolha dos temas dos trabalhos teóricos;
-- 27 de fevereiro - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
-- 4 de março - Entrega da proposta do trabalho a realizar - Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
-- a partir de 9 de março iniciam-se as apresentações dos trabalhos teóricos 
-- até 20 de maio - Entrega dos trabalhos práticos
-- 23 e 27 de maio - Apresentações dos trabalhos práticos 
+- Até **23 de setembro** escolha do **Tipo de Avaliação** na Tarefa apropriada no Canvas:
+  - (AC V1) Escolher os temas dos trabalhos teóricos e entrega da **Proposta do Trabalho Prático** na Tarefa apropriada;
+  - (AC V1) Constituição dos grupos na Tarefa apropriada;
+  - (AC V2) Escolha dos temas dos trabalhos teóricos e entrega da proposta do trabalho a realizar na Tarefa apropriada - Indicações sobre o formato da proposta na página de [Documentação];
+- **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
+- **28 de setembro** - Apresentação, durante a aula, da proposta do projeto a realizar 
+- a partir de **5 de outubro** iniciam-se as apresentações dos trabalhos teóricos 
+- até **2 de janeiro** - Entrega dos trabalhos práticos
+- dia **14 de dezembro** (para entregas antecipadas) ou **4 de janeiro** - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
 - Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
@@ -133,5 +132,5 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
 
 ## Log
-
+2022.09.10 - Publicação do Repositório da UC
 
