@@ -11,6 +11,15 @@ Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem
 
 ---
 
+
+## 1. Sistema de sensores para trânsito automovel 
+
+
+## 2. Sistema de registo de jogadores de jogos on-line
+
+
+## 3. Sistema peer-to-peer para transferência de ficheiros
+
 ## 1. Sistema de Votação On-Line Distribuído
 
 Os sistemas de votação *on-line* comecam timidamente a aparecer. Um dos motivos que atrasa a sua implementação é a confiança necessária à sua utilização.
