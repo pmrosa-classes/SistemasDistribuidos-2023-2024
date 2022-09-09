@@ -97,6 +97,14 @@ Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pe
 
 Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
 
+## Tarefas
+
+Lista de Tarefas a preencher no MyCAnvas:
+- 1
+- 2
+- 3
+
+
 ## Presenças
 
 Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1412701734&single=true) a percentagem de aulas a que assistiram.
