@@ -99,11 +99,12 @@ Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados n
 
 ## Tarefas
 
-Lista de Tarefas a preencher no MyCAnvas:
-- 1
-- 2
-- 3
-
+Lista de Tarefas a preencher no MyCanvas:
+- Até **23 de setembro** escolha do **Tipo de Avaliação**: 
+- Até **23 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático**:  
+- Até **23 de setembro**, para AC V1, informar sobre a **constituição dos grupos**:
+- Até **23 de setembro**, para AC V2, escolher **os temas dos trabalhos teóricos**:
+- Até **2 de janeiro**, entrega dos trabalhos práticos:
 
 ## Presenças
 
@@ -120,8 +121,9 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- Até **23 de setembro** escolha do **Tipo de Avaliação** na Tarefa apropriada no Canvas:
-  - (AC V1) Escolher os temas dos trabalhos teóricos e entrega da **Proposta do Trabalho Prático** na Tarefa apropriada;
+- Até **23 de setembro** escolha do **Tipo de Avaliação** na Tarefa apropriada no Canvas
+- Adicionalmente, conforme o tipo de avaliação escolhido:
+  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** na Tarefa apropriada;
   - (AC V1) Constituição dos grupos na Tarefa apropriada;
   - (AC V2) Escolha dos temas dos trabalhos teóricos e entrega da proposta do trabalho a realizar na Tarefa apropriada - Indicações sobre o formato da proposta na página de [Documentação];
 - **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
