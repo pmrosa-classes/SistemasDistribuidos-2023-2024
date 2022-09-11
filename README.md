@@ -100,11 +100,10 @@ Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados n
 ## Tarefas
 
 Lista de Tarefas a preencher no MyCanvas:
-- Até **23 de setembro** escolha do **Tipo de Avaliação**: 
-- Até **23 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático**:  
-- Até **23 de setembro**, para AC V1, informar sobre a **constituição dos grupos**:
-- Até **23 de setembro**, para AC V2, escolher **os temas dos trabalhos teóricos**:
-- Até **2 de janeiro**, entrega dos trabalhos práticos:
+- Até **23 de setembro** escolha do **Tipo de Avaliação** e **Constituição dos Grupos** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479): 
+- Até **23 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480)  
+- Até **23 de setembro**, para AC V2, escolher **os temas dos trabalhos teóricos** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
+- Até **2 de janeiro**, entrega dos trabalhos práticos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15482)
 
 ## Presenças
 
