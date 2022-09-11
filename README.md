@@ -121,15 +121,14 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 
 ## Resumo do Calendário da UC
 *(em atualização)*
-- Até **23 de setembro** escolha do **Tipo de Avaliação** na Tarefa apropriada no Canvas
+- Até **23 de setembro** escolha do **Tipo de Avaliação** e da **Constituição dos Grupos (AC V1)** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479) do Canvas 
 - Adicionalmente, conforme o tipo de avaliação escolhido:
-  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** na Tarefa apropriada;
-  - (AC V1) Constituição dos grupos na Tarefa apropriada;
-  - (AC V2) Escolha dos temas dos trabalhos teóricos e entrega da proposta do trabalho a realizar na Tarefa apropriada - Indicações sobre o formato da proposta na página de [Documentação];
+  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480). Indicações sobre o formato da proposta na página de [Documentação]; ;
+  - (AC V2) Escolha dos temas dos trabalhos teóricos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
 - **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
 - **28 de setembro** - Apresentação, durante a aula, da proposta do projeto a realizar 
 - a partir de **5 de outubro** iniciam-se as apresentações dos trabalhos teóricos 
-- até **2 de janeiro** - Entrega dos trabalhos práticos
+- até **2 de janeiro** - Entrega dos trabalhos práticos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15482)
 - dia **14 de dezembro** (para entregas antecipadas) ou **4 de janeiro** - Apresentações dos trabalhos práticos 
 
 ## Bibliografia
