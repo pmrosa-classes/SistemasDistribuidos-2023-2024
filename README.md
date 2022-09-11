@@ -66,13 +66,13 @@ Trata-se do método mais indicado para quem gosta de implementar soluções.
 
 Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
 
-Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/Documentacao.md) do projeto.
+Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/Documentacao.md) do projeto.
 
 Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
 ### 2. Avaliação Continua V2 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
 
-Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
+Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
 Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8781) no Canvas para indicar os cinco papers escolhido (o Docente escolherá 3) até **23 de setembro**.
 
