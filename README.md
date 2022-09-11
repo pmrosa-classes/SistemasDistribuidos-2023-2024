@@ -64,7 +64,7 @@ A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão es
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8783) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
+Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15480) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15479) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
 
 Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/Documentacao.md) do projeto.
 
@@ -74,7 +74,7 @@ Importante respeitar as datas de entrega do trabalho prático. Não serão aceit
 
 Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
 
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/9033/assignments/8781) no Canvas para indicar os cinco papers escolhido (o Docente escolherá 3) até **23 de setembro**.
+Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](ttps://mycampus.pt/courses/13232/assignments/15481) no Canvas para indicar os cinco papers escolhido (o Docente escolherá 3) até **23 de setembro**.
 
 ### 3. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
@@ -122,7 +122,7 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 *(em atualização)*
 - Até **23 de setembro** escolha do **Tipo de Avaliação** e da **Constituição dos Grupos (AC V1)** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479) do Canvas 
 - Adicionalmente, conforme o tipo de avaliação escolhido:
-  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480). Indicações sobre o formato da proposta na página de [Documentação]; ;
+  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480). Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/tree/main/TrabsP); ;
   - (AC V2) Escolha dos temas dos trabalhos teóricos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
 - **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
 - **28 de setembro** - Apresentação, durante a aula, da proposta do projeto a realizar 
