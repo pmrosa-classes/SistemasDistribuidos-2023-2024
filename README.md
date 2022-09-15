@@ -107,7 +107,7 @@ Lista de Tarefas a preencher no MyCanvas:
 
 ## Presenças
 
-Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1412701734&single=true) a percentagem de aulas a que assistiram.
+Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=1412701734&single=true) a percentagem de aulas a que assistiram.
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
