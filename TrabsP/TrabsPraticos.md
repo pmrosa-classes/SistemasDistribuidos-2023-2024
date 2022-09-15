@@ -14,8 +14,11 @@ Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem
 
 ## 1. Sistema de sensores para trânsito automovel 
 
+Para que a condução autónoma, ou mesmo apenas sistemas avançados de ajuda aos condutores, possa ser implementada, deverão existir um conjunto muito elevado de sensores (e atuadores) para obter informação relevante do estado do tráfego, condições meterológicas entre outras informações.
+Propõe-se a realização de um sistema que obtenha esses dados dos sensores e os arquive de forma tolerante a faltas, permitindo depois a sua consulta através de webservices pelos veiculos.
 
 ## 2. Sistema de registo de jogadores de jogos on-line
+
 
 
 ## 3. Sistema peer-to-peer para transferência de ficheiros
