@@ -119,6 +119,10 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
 A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=703206536&single=true)
 
+## Discord
+
+Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/AanKf9EH).
+
 ## Resumo do Calendário da UC
 *(em atualização)*
 - Até **23 de setembro** escolha do **Tipo de Avaliação** e da **Constituição dos Grupos (AC V1)** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479) do Canvas 
