@@ -146,5 +146,6 @@ Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos de
 
 ## Log
 2022.09.15 - Publicação do Repositório da UC
+
 2022.09.15 - Discord Server criado
 
