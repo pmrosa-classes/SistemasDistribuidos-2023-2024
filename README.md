@@ -9,7 +9,7 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 ### Horário 
 | Dia | Hora | 
 | :-----------: | :-----------: | 
-| Quarta-feira | 16:00 - 18:40 | 
+| Sexta-feira | 9:00 - 11:40 | 
 
 ## Programa
 ### Aulas Teóricas
@@ -32,28 +32,28 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 
 ### Aulas de Suporte aos Trabalhos Práticos:
 
-Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos. A definição final das datas dessas aulas deverá ficar decidida nas primeiras 3 a 4 semanas de aulas.
+Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos.
 
 ### Planeamento previsto (pode sofrer alterações!)
 | Semana | Data | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 set | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
-| 02 | 21 set | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
-| 03 | 28 set | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
-| 04 | 05 out | Chamadas a Procedimentos Remotos / gRPC; Coordenação |
-| 05 | 12 out | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
-| 06 | 19 out | Replicação; *Apoio Trabalhos Práticos*  |
-| 07 | 26 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| -- | 02 nov | *Não há aulas de SID nesta semana* |
-| 08 | 09 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
-| 09 | 16 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
-| 10 | 23 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 11 | 30 nov | *Apoio Trabalhos Práticos* |
-| 12 | 07 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
-| 13 | 14 dez | *Apoio Trabalhos Práticos*; Primeira data disponível para *Apresentações de Trabalhos Práticos* |
-| -- | 21 dez | *Férias de Natal* |
-| -- | 28 dez | *Férias de Natal* |
-| 14 | 04 jan | Apresentação dos Trabalhos Práticos |
+| 01 | 16 set | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
+| 02 | 23 set | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
+| 03 | 30 set | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
+| 04 | 07 out | Chamadas a Procedimentos Remotos / gRPC; Coordenação |
+| 05 | 14 out | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
+| 06 | 21 out | Replicação; *Apoio Trabalhos Práticos*  |
+| 07 | 28 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
+| -- | 04 nov | *Não há aulas de SID nesta semana* |
+| 08 | 11 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
+| 09 | 18 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
+| 10 | 25 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
+| 11 | 02 nov | *Apoio Trabalhos Práticos* |
+| 12 | 09 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
+| 13 | 16 dez | *Apoio Trabalhos Práticos*; Primeira data disponível para *Apresentações de Trabalhos Práticos* |
+| -- | 23 dez | *Férias de Natal* |
+| -- | 30 dez | *Férias de Natal* |
+| 14 | 06 jan | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
@@ -116,7 +116,8 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Orientações para a elaboração dos trabalhos práticos na avaliação continua
 
 ## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro..
+Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
+A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=703206536&single=true)
 
 ## Resumo do Calendário da UC
 *(em atualização)*
@@ -140,5 +141,5 @@ Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e
 - GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
 
 ## Log
-2022.09.10 - Publicação do Repositório da UC
+2022.09.15 - Publicação do Repositório da UC
 
