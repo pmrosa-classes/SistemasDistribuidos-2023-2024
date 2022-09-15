@@ -32,23 +32,23 @@ Os sistemas de votação *on-line* comecam timidamente a aparecer. Um dos motivo
 O que se pretende é um sistema de votação *on-line*, que deverá obviamente contar com estações de voto (sugere-se uma app na web ou apps Android em alternativa) e servidores de gestão da votação e de armazenamento de dados (bases de dados). Os serviços devem estar replicados em mais que uma máquina; as bases de dados devem estar replicadas em mais que uma máquina e cifradas. Toda a comunicação entre clientes e servidores deve ser cifrada (https).
 A implementação exata e seu contexto fica ao critério do aluno que terá que o descreverá na sua proposta de trabalho.
 
-## 2. Repositório de Ficheiros Distribuído on-line
+## 5. Repositório de Ficheiros Distribuído on-line
 
 A necessidade de acesso facilitado a ficheiros fez surgir um grande número de serviços como a DropBox, GoogleDrive, OneDrive, etc.
 Estes serviços são fornecidos em ambientes de Cloud e alem da facilidade e ubiquidade no seu acesso, estão configurados em alta disponibilidade.
 O que se pretende é a elaboração de um sistema deste tipo, com acesso facilitado através de uma página web (como opcional através de uma app Android) e que suporte um ambiente de alta disponibilidade com replicação e preferencialmente encriptação de dados.
 
-## Sistema de Auto-Reposição de ficheiros / Anti-Ransomware
+## 6. Sistema de Auto-Reposição de ficheiros / Anti-Ransomware
 
 Uma modificação não autorizada de um sistema de ficheiros é algo que se deseja evitar, seja devido a ataques de Ransomware ou outra causa.
 O que se pretende é criar um sistema que detete alterações não autorizadas de ficheiros armazenados e os reponha, caso se detete que foram acessos não autorizados. Os alunos devem iniciar o trabalho por propor a forma de deteção.
 
-## Sistema 2FA (preferivelmente c/ app Android)
+## 7. Sistema 2FA (preferivelmente c/ app Android)
 
 Cada vez mais existem ataques a formas de validação simples baseadas em nomes de utilizadores e passwords. Desde há muito tempo que se iniciou a utilização de um sistema de dois fatores, baseado numa segunda validação que pode ser realizada de várias formas (uma notificação no telemovel; uma app que gere TOTP; etc).
 O que se pretende é que os alunos desenvolvam um sistema de 2FA que seja tolerante a faltas e distribuído.
  
-## Sistema de Armazenamento de Logs Distribuído
+## 8.Sistema de Armazenamento de Logs Distribuído
 
 A capacidade de registar as várias operações realizadas por sistemas e aplicações é muito relevante para a implementação de politicas de segurança eficazes.
 O que se pretende é criar um sistema que Logs que armazena as informações enviadas (por diversas vias a propor, incluindo webservices) de forma distribuída e replicada.
