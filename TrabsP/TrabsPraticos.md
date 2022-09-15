@@ -56,6 +56,6 @@ Para a implementação o projeto necessitará de pequenas aplicações "teste" q
 
 ---
 
-Os trabalhos práticos são efetuados em [grupo](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabsP/TrabsP-grupos.md).
+Os trabalhos práticos são efetuados em [grupo](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=703206536&single=true).
 
 Tal como descrito na Avaliação, a classificação final do trabalho deve ser no minimo de 8 valores.
