@@ -2,9 +2,7 @@
 
 ## Componente unica de avaliação continua V2: Análise e apresentação de dois papers sobre Blockchain ou Internet of Things – 30% da avaliação – realização voluntária.
 
-**ATUALIZAÇÃO (2022.03.11) - Distribuição dos Papers e Datas já disponivel** [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXP14kGPt0so3QZ0PzmelxoxhVY7QU0UBPt95wf--7BndjRsDz09JbkJLHKYlsC-DyFsLZuux8cvhJ/pubhtml?gid=1239899123&single=true)
-
-Os alunos deverão escolher cinco papers que tenham sido apresentados numa das conferências com rank A+ ou A em http://portal.core.edu.au/conf-ranks/ nos anos de 2018, 2019, 2020 ou já em 2021 ou em alternativa de um destes sites:
+Os alunos deverão escolher cinco papers que tenham sido apresentados numa das conferências com rank A+ ou A em http://portal.core.edu.au/conf-ranks/ nos anos de 2019, 2020, 2021 ou já em 2022 ou em alternativa de um destes sites:
 - https://dl.acm.org
 - https://www.usenix.org/conference/usenixsecurity20/technical-sessions
 - https://www.usenix.org/conference/usenixsecurity19/technical-sessions
@@ -13,13 +11,13 @@ Os alunos deverão escolher cinco papers que tenham sido apresentados numa das c
 
 Poderão procurar por várias keyworks entre as quais “Blockchain”, “Distributed Systems”, “Security”, “IoT”, “BigData” etc. Obviamente que os assuntos deverão ser relacionados com a unidade curricular. Em caso de duvida deverão contactar o Docente.
 
-As escolhas deverão ser colocadas [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8781) no Canvas para o efeito até **25 de fevereiro**.
+As escolhas deverão ser colocadas [nesta Tarefa](https://mycampus.pt/courses/13232/assignments/15481) no Canvas para o efeito até **23 de setembro**.
 
-Desses cinco papers o docente escolherá dois que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar – a iniciar na semana de 28/2).
+Desses cinco papers o docente escolherá dois que os alunos terão que apresentar em datas a marcar (conforme o número total de apresentações a efetuar – a iniciar cerca de 15 dias depois).
 
 As apresentações serão feitas com recurso a um powerpoint (ou semelhante) e com um tempo de apresentação de 20 minutos, durante as aulas.
 
-O processo de escolha decorre entre 14 e 25 de fevereiro (primeira+segunda semana de aulas) e a distribuição estará disponível [aqui](https://github.com/pmrosa-classes/SistemasDistribuidosEI/blob/main/TrabT/TrabT-distribuicao.md) no dia 27 de fevereiro. Em caso de repetição de escolhas será sempre usado o método FIFO. A distribuição de datas seguirá o método LIFO.
+O processo de escolha decorre entre 16 e 23 de setembro (primeira+segunda semana de aulas) e a distribuição estará disponível aqui no dia 25 de setembro. Em caso de repetição de escolhas será sempre usado o método FIFO. A distribuição de datas seguirá o método LIFO.
 
 A análise deve basear-se sobre o estudo ou implementação descrita, podendo ser útil verificar outros papers referenciados. É importante para a avaliação que o aluno exponha exatamente o que é relevante do paper, expondo ainda o seu ponto de vista sobre o que apresenta. Não é necessário nenhum relatório.
 
