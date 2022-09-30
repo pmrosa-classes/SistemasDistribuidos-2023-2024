@@ -48,9 +48,9 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 | 08 | 11 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
 | 09 | 18 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
 | 10 | 25 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 11 | 02 nov | *Apoio Trabalhos Práticos* |
-| 12 | 09 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
-| 13 | 16 dez | *Apoio Trabalhos Práticos*; Primeira data disponível para *Apresentações de Trabalhos Práticos* |
+| 11 | 02 nov | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
+| 12 | 09 dez | *Apoio Trabalhos Práticos* |
+| 13 | 16 dez | Teste de Avaliação |
 | -- | 23 dez | *Férias de Natal* |
 | -- | 30 dez | *Férias de Natal* |
 | 14 | 06 jan | Apresentação dos Trabalhos Práticos |
