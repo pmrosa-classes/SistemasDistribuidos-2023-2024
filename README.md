@@ -107,7 +107,7 @@ Lista de Tarefas a preencher no MyCanvas:
 
 ## Presenças
 
-Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=1412701734&single=true) a percentagem de aulas a que assistiram.
+Os alunos podem acompanhar a percentagem de aulas a que assistiram [aqui para a T1](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=1412701734&single=true)  e [aqui para a T2](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=933545162&single=true).
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
@@ -117,7 +117,7 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 
 ## Grupos
 Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
-A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=703206536&single=true)
+A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=592821258&single=true)
 
 ## Discord
 
