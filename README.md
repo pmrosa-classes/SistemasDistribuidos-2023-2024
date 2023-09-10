@@ -69,9 +69,9 @@ Terá também de entrega uma Proposta para o trabalho a realizar. O formato da p
 
 Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
-### 2. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+### 2. Exame Final - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
-Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
+Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas dos trabalhos práticos.
 
 ### 3. Regras de Avaliacao Continua / Avaliação Final
 
