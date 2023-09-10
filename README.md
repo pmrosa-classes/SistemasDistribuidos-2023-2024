@@ -128,6 +128,6 @@ Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos de
 - GUEDES, Paulo, Tecnologia de Sistemas Distribuídos, FCA
 
 ## Log
-- 2022.09.15 - Publicação do Repositório da UC
-- 2022.09.15 - Discord Server criado
+- 2022.09.10 - Publicação do Repositório da UC
+- 2022.09.10 - Discord Server criado
 
