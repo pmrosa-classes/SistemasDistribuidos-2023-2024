@@ -116,16 +116,7 @@ A lista dos grupos poderá ser consultada [aqui]()
 Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/bqG65HepZ2).
 
 ## Resumo do Calendário da UC
-*(em atualização)*
-- Até **23 de setembro** escolha do **Tipo de Avaliação** e da **Constituição dos Grupos (AC V1)** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479) do Canvas 
-- Adicionalmente, conforme o tipo de avaliação escolhido:
-  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480). Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/tree/main/TrabsP); ;
-  - (AC V2) Escolha dos temas dos trabalhos teóricos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
-- **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
-- **28 de setembro** - Apresentação, durante a aula, da proposta do projeto a realizar 
-- a partir de **5 de outubro** iniciam-se as apresentações dos trabalhos teóricos 
-- até **2 de janeiro** - Entrega dos trabalhos práticos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15482)
-- dia **14 de dezembro** (para entregas antecipadas) ou **4 de janeiro** - Apresentações dos trabalhos práticos 
+
 
 ## Bibliografia
 - Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
