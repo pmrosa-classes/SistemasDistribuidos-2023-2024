@@ -58,7 +58,7 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 A avaliação poderá ser realizada de 2 formas distintas. Os alunos deverão escolher até **22 de setembro** (nesta Tarefa - brevemente) no Canvas.
 
-### 1. Avaliação Continua V1 - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
+### 1. Avaliação Continua - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
 
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2023-2024/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
