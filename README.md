@@ -1,4 +1,4 @@
-# Sistemas Distribuídos 2022-2023 - Engenharia Informática
+# Sistemas Distribuídos 2023-2024 - Engenharia Informática
 *Conteudos da Unidade Curricular de Sistemas Distribuídos para o curso de ***Engenharia Informática 3º ano*** do IADE/Universidade Europeia*
 
 O objetivo da unidade curricular é analisar soluções e tecnologias de desenvolvimento de aplicações distribuídas que permitam uma correta disponibilidade dos serviços de forma escalável e extensível, através da utilização de mecanismos tolerantes a faltas. 
@@ -7,9 +7,10 @@ Análise de soluções atuais como gRPC, Blockchain e aplicação a ambientes Io
 Existem dois sistemas de avaliação continua à escolha dos alunos bem como a avaliação em exame. 
 
 ### Horário 
-| Dia | Hora | 
-| :-----------: | :-----------: | 
-| Sexta-feira | 9:00 - 11:40 | 
+| Turma | Dia | Hora | 
+| :---: | :-----------: | :-----------: | 
+| T01 | Segunda-feira | 16:00 - 18:40 | 
+| T02 | Sexta-feira   | 16:00 - 18:40 | 
 
 ## Programa
 ### Aulas Teóricas
@@ -35,25 +36,23 @@ Existem dois sistemas de avaliação continua à escolha dos alunos bem como a a
 Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos.
 
 ### Planeamento previsto (pode sofrer alterações!)
-| Semana | Data | Aula |
+| Semana | Semanas | Aula |
 | :-----------: | :-----------: | :---------- |
-| 01 | 16 set | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
-| 02 | 23 set | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
-| 03 | 30 set | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
-| 04 | 07 out | Chamadas a Procedimentos Remotos / gRPC; Coordenação |
-| 05 | 14 out | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
-| 06 | 21 out | Replicação; *Apoio Trabalhos Práticos*  |
-| 07 | 28 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| -- | 04 nov | *Não há aulas de SID nesta semana* |
-| 08 | 11 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
-| 09 | 18 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
-| 10 | 25 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 11 | 02 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
-| 12 | 09 dez | *Apoio Trabalhos Práticos* |
-| 13 | 16 dez | Teste de Avaliação |
-| -- | 23 dez | *Férias de Natal* |
-| -- | 30 dez | *Férias de Natal* |
-| 14 | 06 jan | Apresentação dos Trabalhos Práticos |
+| 01 | Semana 11-15 set | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
+| 02 | Semana 18-22 set | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
+| 03 | Semana 25-29 set | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
+| 04 | Semana 2-6 out | (Feriado dia 5 - T02) Chamadas a Procedimentos Remotos / gRPC; Coordenação |
+| 05 | Semana 9-13 out | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
+| 06 | Semana 16-20 out | Replicação; *Apoio Trabalhos Práticos*  |
+| 07 | Semana 23-27 out | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
+| -- | Semana 30-3 out/nov | *Não há aulas de SID nesta semana* |
+| 08 | Semana 6-10 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
+| 09 | Semana 13-17 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
+| 10 | Semana 20-24 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
+| 11 | Semana 27-1 dez | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
+| 12 | Semana 4-8 dez | Teste de Avaliação |
+| 13 | Semana 11-15 dez | Apresentação dos Trabalhos Práticos |
+| 14 | Semana 18-20(?) dez | Apresentação dos Trabalhos Práticos |
 
 ## Avaliação 
 
