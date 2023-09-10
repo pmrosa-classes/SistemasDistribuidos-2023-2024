@@ -56,30 +56,24 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 ## Avaliação 
 
-A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **23 de setembro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
+A avaliação poderá ser realizada de 2 formas distintas. Os alunos deverão escolher até **22 de setembro** (nesta Tarefa - brevemente) no Canvas.
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
 
-Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
+Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2023-2024/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15480) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15479) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
+Quem escolher este método de avaliação continua terá que preencher (nesta Tarefa - brevemente) no Canvas para indicar o trabalho escolhido e (nesta Tarefa - brevemente) no Canvas para indicar os elementos do grupo, ambas até **22 de setembro.**
 
-Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/Documentacao.md) do projeto.
+Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2023-2024/blob/main/TrabsP/Documentacao.md) do projeto.
 
 Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
-### 2. Avaliação Continua V2 - Trabalhos Teóricos (30%) + Teste Escrito Final  c/ 12 a 16 questões (70%)
-
-Os trabalhos teóricos baseiam-se na apresentação de três papers, valendo 10% cada. Esta componente é individual. Consulte o [Enunciado](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabT/TrabT.md) para efetuar a escolha dos temas. 
-
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](ttps://mycampus.pt/courses/13232/assignments/15481) no Canvas para indicar os cinco papers escolhido (o Docente escolherá 3) até **23 de setembro**.
-
-### 3. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+### 2. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
-### 4. Regras de Avaliacao Continua / Avaliação Final
+### 3. Regras de Avaliacao Continua / Avaliação Final
 
 De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** publicado em DR a 30 de setembro de 2021, os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui dois momentos de avaliação:*
 - *A realização de vários instrumentos de avaliação durante o período letivo, os quais devem, obrigatoriamente, representar um mínimo de 30 % e um máximo de 70 %, na ponderação para o cálculo da classificação final da unidade curricular;*
@@ -99,14 +93,13 @@ Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados n
 ## Tarefas
 
 Lista de Tarefas a preencher no MyCanvas:
-- Até **23 de setembro** escolha do **Tipo de Avaliação** e **Constituição dos Grupos** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479): 
-- Até **23 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480)  
-- Até **23 de setembro**, para AC V2, escolher **os temas dos trabalhos teóricos** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
-- Até **2 de janeiro**, entrega dos trabalhos práticos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15482)
+- Até **22 de setembro** escolha do **Tipo de Avaliação** e **Constituição dos Grupos** (nesta Tarefa - brevemente)  
+- Até **22 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta (nesta Tarefa - brevemente)   
+- Até **8 de dezembro**, entrega dos trabalhos práticos nesta (nesta Tarefa - brevemente) 
 
 ## Presenças
 
-Os alunos podem acompanhar a percentagem de aulas a que assistiram [aqui para a T1](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=1412701734&single=true)  e [aqui para a T2](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=933545162&single=true).
+Os alunos podem acompanhar a percentagem de aulas a que assistiram [aqui para a T1]()  e [aqui para a T2]()
 
 ## Método Pedagógico
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
@@ -115,12 +108,12 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Orientações para a elaboração dos trabalhos práticos na avaliação continua
 
 ## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
-A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMy_qe4OHB00CZkNnUHM5vwgfh-NAXmvV0Iw97bwfDhC_wPiRoRPmBdslhEjiprcHu2RkLrXByPwSB/pubhtml?gid=592821258&single=true)
+Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado (nesta Tarefa - brevemente)  no Canvas até dia 22 de setembro.
+A lista dos grupos poderá ser consultada [aqui]()
 
 ## Discord
 
-Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/AanKf9EH).
+Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/bqG65HepZ2).
 
 ## Resumo do Calendário da UC
 *(em atualização)*
