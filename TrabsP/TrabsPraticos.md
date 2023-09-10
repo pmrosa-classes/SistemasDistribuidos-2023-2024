@@ -11,9 +11,10 @@ Os alunos podem usar qualquer tecnologia, infraestrutura, framework ou linguagem
 
 ---
 
-## 1. Sistema Distribuído de Obternção de Dados de Tráfego Automóvel
+## 1. Sistema Distribuído de Obtenção de Dados de Tráfego Automóvel
 
 Sistema para obtenção, a partir dos veiculos, de dados de navegação variados (velocidade, temperatura, chuva, e eventuais outros dados com sensores mais modernos). Estes dados devem ser armazenados num sistema devidamente replicado de bases de dados. Esses dados deverão ser tratados em tempo real e enviados novamente para os veiculos que navegam nos mesmo locais para informação prévia das condições do trânsito automóvel.
+Deverá ser usado um software que simule o envio de dados por parte de veiculos.
 
 
 ## 2. Sistema de Votação On-Line Distribuído
