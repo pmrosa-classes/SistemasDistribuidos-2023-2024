@@ -4,7 +4,7 @@
 O objetivo da unidade curricular é analisar soluções e tecnologias de desenvolvimento de aplicações distribuídas que permitam uma correta disponibilidade dos serviços de forma escalável e extensível, através da utilização de mecanismos tolerantes a faltas. 
 Análise de soluções atuais como gRPC, Blockchain e aplicação a ambientes IoT, bem como outras consideradas adequadas aos assuntos estudados.
 
-Existem dois sistemas de avaliação continua à escolha dos alunos bem como a avaliação em exame. 
+A avaliação continua será efetuada através do Projeto doo semestre, com as restantes UCs. 
 
 ### Horário 
 | Turma | Dia | Hora | 
@@ -58,16 +58,12 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 A avaliação poderá ser realizada de 2 formas distintas. Os alunos deverão escolher até **22 de setembro** (nesta Tarefa - brevemente) no Canvas.
 
-### 1. Avaliação Continua - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
+### 1. Avaliação Continua - Trabalho Prático (50%) + Teste Escrito Final c/ 8 a 10 questões (50%)
 
-Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2023-2024/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
-Trata-se do método mais indicado para quem gosta de implementar soluções.
+O trabalho será enquadrado no Projecto com as restantes UC do semestre do curso.
+Deverá ser seguido o Briefing da UC de Projeto onde estão as informações sobre entregas e trabalhos a desenvolver.
 
-Quem escolher este método de avaliação continua terá que preencher (nesta Tarefa - brevemente) no Canvas para indicar o trabalho escolhido e (nesta Tarefa - brevemente) no Canvas para indicar os elementos do grupo, ambas até **22 de setembro.**
-
-Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2023-2024/blob/main/TrabsP/Documentacao.md) do projeto.
-
-Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
+Quem escolher este método de avaliação continua terá que preencher no Canvas esta tarefa (brevemente disponivel) para indicar os elementos do grupo até **22 de setembro.**
 
 ### 2. Exame Final - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
 
@@ -90,13 +86,6 @@ Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pe
 
 Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
 
-## Tarefas
-
-Lista de Tarefas a preencher no MyCanvas:
-- Até **22 de setembro** escolha do **Tipo de Avaliação** e **Constituição dos Grupos** (nesta Tarefa - brevemente)  
-- Até **22 de setembro**, para AC V1, escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta (nesta Tarefa - brevemente)   
-- Até **8 de dezembro**, entrega dos trabalhos práticos nesta (nesta Tarefa - brevemente) 
-
 ## Presenças
 
 Os alunos podem acompanhar a percentagem de aulas a que assistiram [aqui para a T1]()  e [aqui para a T2]()
@@ -106,17 +95,6 @@ Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomead
 - Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
 - Orientações na escolha dos papers cientificos a apresentar
 - Orientações para a elaboração dos trabalhos práticos na avaliação continua
-
-## Grupos
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado (nesta Tarefa - brevemente)  no Canvas até dia 22 de setembro.
-A lista dos grupos poderá ser consultada [aqui]()
-
-## Discord
-
-Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/bqG65HepZ2).
-
-## Resumo do Calendário da UC
-
 
 ## Bibliografia
 - Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
